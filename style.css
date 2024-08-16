@@ -1,0 +1,28 @@
+#logo{
+    width: 70px;
+    height: 70px;
+}
+
+.cartao{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.titulo{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.img-card{
+    height: 250px;
+    width: 290px;
+}
+.class {
+    height: 480px;
+    width: 100%;
+}
